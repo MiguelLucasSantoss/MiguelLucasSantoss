@@ -1,3 +1,12 @@
+<div align="center"><br>
+    <a href="https://github.com/MiguelLucasSantoss">
+        <img height="165" src="https://github-readme-stats.vercel.app/api?username=MiguelLucasSantoss&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
+        <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelLucasSantoss&layout=compact&langs_count=10&theme=moltack"/>
+    </a>
+</div>
+
+## 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
