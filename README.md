@@ -24,8 +24,8 @@
 
 ### Frameworks e Bibliotecas
 
-<div align="right"> 
-    <img src"" alt="womp" /> 
+<div align="right" width="40" height="40"> 
+    <img src="./assets/Design_sem_nome__1_-removebg-preview.png" alt="womp" /> 
 </div>
 
 <p>
