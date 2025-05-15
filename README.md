@@ -24,6 +24,7 @@
 
 ### Frameworks e Bibliotecas
 
+<div display-flex>
 <div align="right" width="40" height="40"> 
     <img src="./assets/Design_sem_nome__1_-removebg-preview.png" alt="womp" /> 
 </div>
@@ -40,6 +41,7 @@
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
+</div>
 ---
 
 ## Conecte-se comigo! 💬
